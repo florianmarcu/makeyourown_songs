@@ -1,0 +1,6 @@
+package com.craftparty.craftparty
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

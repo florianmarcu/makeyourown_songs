@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "380992763888",
+    "project_id": "makeyourown-songs",
+    "storage_bucket": "makeyourown-songs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380992763888:android:fef21bbd0176d71836cf35",
+        "android_client_info": {
+          "package_name": "com.craftparty.craftparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380992763888-m1rpcolv68igiftacfgiu08jucql7vav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCvCF_LU-ABLr1mif5z0gXxj_UopI1Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380992763888-m1rpcolv68igiftacfgiu08jucql7vav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380992763888-mrcul3k8adgh10uabptev8v1a2arct6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.makeyourown.makeyourown-songs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
